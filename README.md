@@ -1,3 +1,6 @@
-Hello <b>
-https://www.ransomware.live/ <b>
-https://thedfirreport.com/ <b>
+Hello
+
+https://www.ransomware.live/
+
+
+https://thedfirreport.com/
