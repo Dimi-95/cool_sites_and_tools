@@ -12,8 +12,8 @@ https://vx-underground.org/ -> vx-underground, also known as VXUG, is an educati
 [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) -> is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible
 
 [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) -> is a tool to quickly enumerate AWS S3 buckets to look for loot
-[AQUATONE](https://github.com/michenriksen/aquatone) -> is a set of tools for performing reconnaissance on domain names
 
+[AQUATONE](https://github.com/michenriksen/aquatone) -> is a set of tools for performing reconnaissance on domain names
 
 [spoofcheck](https://github.com/BishopFox/spoofcheck) -> a program that checks if a domain can be spoofed. The program checks SPF and DMARC records for weak configurations that allow spoofing
 
